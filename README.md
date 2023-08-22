@@ -1,7 +1,7 @@
 # Daniel Rogers UX Portfolio
 
 I am a Junior at Cal state Chico majoring in computer science.
-![Picture of Me](ux-portfolio-droge91/assets/DanielRogers)
+![Picture of Me](ux-portfolio-droge91/assets/DanielRogers.jpg)
 
 ## UX Team Project
 
