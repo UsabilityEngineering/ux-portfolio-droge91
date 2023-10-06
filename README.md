@@ -5,7 +5,7 @@ I am a Junior at Cal state Chico majoring in computer science.
 
 ## UX Team Project
 
-Coming soon.
+BlueConnect
 
 ## UX Journal
 
