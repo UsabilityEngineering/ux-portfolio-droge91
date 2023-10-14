@@ -6,7 +6,7 @@ This is where Quasar comes in, Quasar is an application capable of installing mo
 
 As with most mod installers it works by integrating with the mod distribution website pertaining to its game, in this case Gamebanana.  This is an example of **Consistency and standards**, a usability guideline that states that applications should follow industry standards so that users are not confused. Shown below is Gamebanana's Quasar integration.
 
-![gamebanana integration](/assets/Quasar_integration.png)
+![gamebanana integration](/assets/Quasar integration.png)
 
 Having found a mod that I wished to install I clicked 1-click install to prompt quasar to begin downloading the mod
 As I had expected Quasar immediately begin showing a download progress bar, providing **visibility of system status** by letting me know that me clicking install had actually done something, and giving me an approximate measure of how long the download would take.  
