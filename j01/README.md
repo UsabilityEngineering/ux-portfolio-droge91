@@ -8,8 +8,7 @@ As with most mod installers it works by integrating with the mod distribution we
 
 ![gamebanana integration](/assets/Quasar_integration.png)
 
-Having found a mod that I wished to install I clicked 1-click install to prompt quasar to begin downloading the mod
-As I had expected Quasar immediately begin showing a download progress bar, providing **visibility of system status** by letting me know that me clicking install had actually done something, and giving me an approximate measure of how long the download would take.  
+Having found a mod that I wished to install I clicked 1-click install to prompt quasar to begin downloading the mod.  As I had expected Quasar immediately begin showing a download progress bar, providing **visibility of system status** by letting me know that me clicking install had actually done something, and giving me an approximate measure of how long the download would take.  
 ![Quasar Download](/assets/Quasar_down.png)
 Having installed a mod I immediately loaded the game to test if it had worked only to surprised that the mod had not had any effect.  I had a **mental model** that it would install mods one by one but the **conceptual model** was that of batch installation.  The program expects you to download all of the mods that you wish to install before clicking the start transfer button to install them all at once.
 Once I figured this out I clicked start transfer.  Doing so pulled up a transfer status screen as shown below.
