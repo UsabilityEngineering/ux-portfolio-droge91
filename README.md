@@ -9,4 +9,4 @@ BlueConnect
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Using Quasar for mod installation](j01/)
